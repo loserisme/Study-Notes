@@ -1,0 +1,24 @@
+
+
+该教程是关于SLAM的系列教程，从网上下载，本人觉得讲解非常详细，并配有习题供动手实践，
+非常适合初学者学习使用。本人学习后，实现了课后作业的所有程序，一并打包上传，供大家共
+同学习探讨，原始资料请尊重原作者，本人的程序如有错误请原谅指正。
+code by LiuBing, welcome to contact me:
+lewsn2008@yahoo.com.cn
+@@: 44452114( please sign：SLAM )
+
+
+SLAM教程.rar包括以下内容：
+Simultaneous Localization and Mapping.doc为该系列教程的学习框架和安排。
+slam_lecture01\02\03\04.pdf 为教程的四个课件
+slam_homework01\02\04 为配合课件的课后作业
+orginal documents 为作业中的程序框架源码和所需的数据文件
+thesis documents 为slam相关的论文资料，可以对slam进行详细的研究
+Code(By LiuBing) 为本人在原教程程序框架基础上实现的matlab程序代码
+
+
+大家可以从四个课件依次学习，并完成课后作业，可以参考我的程序，程序不完善之处敬请原谅。
+另外需要详细研究可以参考thesis中的论文。
+
+
+祝大家学习生活愉快~~
